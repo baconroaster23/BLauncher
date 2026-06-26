@@ -1,5 +1,3 @@
-makeme this:
-
 # BLauncher - Minecraft Version Manager
 
 BLauncher is a Batch-based Minecraft installation manager written by CLDevs.
