@@ -71,3 +71,6 @@ MCLauncher/
     libraries/...
     assets/...
 ```
+## Credits
+- Made by baconroaster23 on discord 
+Made with love from CLDevs Team
