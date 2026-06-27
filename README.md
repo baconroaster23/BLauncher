@@ -21,7 +21,7 @@ launch the game.
    Microsoft for any third-party app that logs in with a Microsoft account,
    official launcher included:
    - Go to https://portal.azure.com -> "App registrations" -> "New registration"
-   - Name: anything, e.g. "BLauncher"
+   - Name: "BLauncher"
    - Supported account types: "Personal Microsoft accounts only"
    - Redirect URI: leave blank for now -> Register
    - Copy the **Application (client) ID** shown on the overview page
